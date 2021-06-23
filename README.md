@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋</h1>
 
-<p align="center">I'm Noah Teshima (he/him/his), a recent mathematics, computer science graduate from the University of California, San Diego. My areas of interest include web development, recommender systems, and Frequentist statistics.</p>
+<p align="center">I'm Noah Teshima (he/him/his): a recent mathematics, computer science graduate from the University of California, San Diego. My areas of interest include web development, recommender systems, and Frequentist statistics.</p>
 
 <p align="center"> Here is my <a href="https://docs.google.com/document/d/1XrNmS2bcUYSeVy9VOi4qHF3r5JHAIU_NV_twl1V471E/edit?usp=sharing">resume</a> and some of my current contribution statistics:</p>
 
