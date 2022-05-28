@@ -2,7 +2,7 @@
 
 <p align="center">I'm Noah Teshima (he/him/his): a recent mathematics, computer science graduate from the University of California, San Diego. My areas of interest include web development, recommender systems, and Frequentist statistics.</p>
 
-<p align="center"> Here is my <a href="https://docs.google.com/document/d/1XrNmS2bcUYSeVy9VOi4qHF3r5JHAIU_NV_twl1V471E/edit?usp=sharing">resume</a> and some of my current contribution statistics:</p>
+<p align="center"> Here is my <a href="https://docs.google.com/document/d/1zi4rdK13sDEI4l2c4cOZwaEpqtb4sNFPiI-1ZwgBxew/edit?usp=sharing">resume</a> and some of my current contribution statistics:</p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=NoahT&show_icons=true&theme=dark" alt="NoahT" /></p>
 
